@@ -1,0 +1,16 @@
+/* We are humans! */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Developer: Naoise Golden Santos
+  Twitter: @naoisegolden
+  Location: Barcelona, Spain
+
+/* THANKS */
+  Names (& URL): Sigrid Magnusson & all Spotify staff, HTML5Boilerplate geniuses.
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Adobe Photoshop, Smultron, Github for Mac
